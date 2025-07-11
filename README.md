@@ -1,4 +1,5 @@
-## Python | ctypes <img width="20" height="20" alt="image" src="https://github.com/user-attachments/assets/6420951d-1a48-4915-b9b0-a796dbf1688d" />
+## Python | ctypes <img width="20" height="20" alt="image" src="https://github.com/user-attachments/assets/c21cebdd-d469-49a8-9baf-5fe32caa5264" />
+
 
 
 
