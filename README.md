@@ -1,4 +1,4 @@
-## Python | ctypes <img width="100" height="100" alt="image" src="https://github.com/user-attachments/assets/42e1c0c2-2475-456b-b417-b4d2da3d79a3" />
+## Python | ctypes <img width="20" height="20" alt="image" src="https://github.com/user-attachments/assets/42e1c0c2-2475-456b-b417-b4d2da3d79a3" />
 
 
 чет питон не хочет хавать string из ++
