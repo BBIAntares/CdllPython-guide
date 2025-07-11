@@ -1,8 +1,6 @@
 ## Python | ctypes <img width="30" height="30" alt="image" src="https://github.com/user-attachments/assets/4dd8fa6b-cdfd-4087-960a-4a2fbb8c8590" />
 
-
-
-
+ctypes  -
 
 чет питон не хочет хавать string из ++
 
