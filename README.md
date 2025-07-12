@@ -1,6 +1,6 @@
 ## Python | ctypes <img width="30" height="30" alt="image" src="https://github.com/user-attachments/assets/4dd8fa6b-cdfd-4087-960a-4a2fbb8c8590" />
 
-ctypes  -
+ctypes  - это библиотека внешних функций для Python. Она предоставляет типы данных, совместимые с C, и позволяет вызывать функции из библиотек DLL или общих библиотек. Ее можно использовать для перевода этих библиотек в чистый Python.
 
 чет питон не хочет хавать string из ++
 
