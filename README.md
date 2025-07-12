@@ -8,7 +8,7 @@ ctypes  - это библиотека внешних функций для Pytho
 
 Я буду использовать Visual Studio от Microsoft для крафта dll. Для начала нужно создать пустой с++ проект, потом в проекте создать cpp и header файлы, затем выбрать режим сборки Release. Так, почти все готово. Осталась выбрать конфигурацию. Чтобы выбрать конфигурацию, перейдите в свойства проекта -> Общие -> Тип конфигурации -> Динамическая библиотека(.dll).
 
-### Release + cpp/header
+### Release + cpp/header:
 
 <img width="1280" height="471" alt="image" src="https://github.com/user-attachments/assets/af83bd3b-32ea-4dca-add7-e83a7dc4f25b" />
 
