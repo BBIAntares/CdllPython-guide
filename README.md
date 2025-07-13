@@ -16,7 +16,7 @@ ctypes  - это библиотека внешних функций для Pytho
 
 <img width="1280" height="471" alt="image" src="https://github.com/user-attachments/assets/eda18678-4df4-4b92-90aa-8a6714dc5300" />
 
-## Создание функции
+### Создание функции
 
 Наша функция должна выглядеть так: extern "C" __declspec(dllexport) тип данных название(тип аргумента название аргумента).
 
