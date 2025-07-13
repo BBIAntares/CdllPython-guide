@@ -40,6 +40,15 @@ ctypes  - это библиотека внешних функций для Pytho
 
 ### внедрение Dll в Pyhon
 
+После всех действий переходим в папку с проектом.
+
+<img width="1020" height="266" alt="image" src="https://github.com/user-attachments/assets/18f3a5df-dbce-4476-ab2b-ec334267b6b7" />
+
+Идем по этому пути: x64 - Release - название проекта. dll (в моем случае: pyLib. dll).
+
+<img width="1020" height="266" alt="image" src="https://github.com/user-attachments/assets/988080f5-77ec-4d0c-8126-1fbd51f3eb72" />
+
+
 чет питон не хочет хавать string из ++
 
 крч, яп хуйни работает только с типами данных С + яп хуйни не работает с классами С++
