@@ -48,6 +48,8 @@ ctypes  - это библиотека внешних функций для Pytho
 
 <img width="1020" height="266" alt="image" src="https://github.com/user-attachments/assets/988080f5-77ec-4d0c-8126-1fbd51f3eb72" />
 
+Для работы с python я буду использовать PyCharm. Создаем проект в PyCharm, копируем в папку проекта нашу dll.
+
 
 чет питон не хочет хавать string из ++
 
