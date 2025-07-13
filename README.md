@@ -56,7 +56,7 @@ ctypes  - это библиотека внешних функций для Pytho
 
 <img width="1020" height="266" alt="image" src="https://github.com/user-attachments/assets/b9701b1d-62f3-43b0-84e8-81ca36169bbc" />
 
-вывод в терминал: print(название переменной.название функции(аргумент))
+вывод в терминал: print(название переменной.название функции(аргумент)). Название функции можно посмотреть в проекте visual studio.
 
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/fb2d8aa6-4abc-40ee-9b7c-b1224795d9a0" />
 
