@@ -52,6 +52,10 @@ ctypes  - это библиотека внешних функций для Pytho
 
 <img width="603" height="316" alt="image" src="https://github.com/user-attachments/assets/034bc70a-d4ca-4317-8409-c51adb597dfc" />
 
+Портируем библиотеку +  создаем переменную, которая принимает путь до dll.
+
+<img width="1246" height="252" alt="image" src="https://github.com/user-attachments/assets/b9701b1d-62f3-43b0-84e8-81ca36169bbc" />
+
 
 
 чет питон не хочет хавать string из ++
