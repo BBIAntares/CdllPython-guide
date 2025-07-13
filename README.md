@@ -56,7 +56,7 @@ ctypes  - это библиотека внешних функций для Pytho
 
 <img width="1020" height="266" alt="image" src="https://github.com/user-attachments/assets/b9701b1d-62f3-43b0-84e8-81ca36169bbc" />
 
-
+выводим в терминал итог функции: print(название переменной.название функции(аргумент))
 
 чет питон не хочет хавать string из ++
 
