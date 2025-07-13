@@ -26,7 +26,8 @@ ctypes  - это библиотека внешних функций для Pytho
 
 ###### header:
 
-<img width="929" height="315" alt="image" src="https://github.com/user-attachments/assets/4fea8fbf-522d-425f-9e06-6b7f0af35447" />
+<img width="929" height="315" alt="image" src="https://github.com/user-attachments/assets/4900fdea-a2eb-423e-8486-92c2a45a29f6" />
+
 
 
 чет питон не хочет хавать string из ++
