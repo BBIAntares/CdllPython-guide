@@ -26,6 +26,9 @@ ctypes  - это библиотека внешних функций для Pytho
 
 ###### header:
 
+<img width="929" height="315" alt="image" src="https://github.com/user-attachments/assets/4fea8fbf-522d-425f-9e06-6b7f0af35447" />
+
+
 чет питон не хочет хавать string из ++
 
 крч, яп хуйни работает только с типами данных С + яп хуйни не работает с классами С++
