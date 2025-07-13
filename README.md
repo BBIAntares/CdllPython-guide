@@ -54,7 +54,7 @@ ctypes  - это библиотека внешних функций для Pytho
 
 Портируем библиотеку +  создаем переменную, которая принимает путь до dll.
 
-<img width="1246" height="252" alt="image" src="https://github.com/user-attachments/assets/b9701b1d-62f3-43b0-84e8-81ca36169bbc" />
+<img width="1020" height="252" alt="image" src="https://github.com/user-attachments/assets/b9701b1d-62f3-43b0-84e8-81ca36169bbc" />
 
 
 
