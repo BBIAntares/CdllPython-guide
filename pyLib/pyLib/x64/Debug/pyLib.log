@@ -1,0 +1,6 @@
+﻿  Source.cpp
+C:\Users\danii\source\repos\pyLib\pyLib\Source.cpp(3,46): warning C4190: для "numToStrOneTwoThreeABC" задано С-связывание, но возвращаемый "std::basic_string<char,std::char_traits<char>,std::allocator<char>>" несовместим с языком С
+      C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.44.35207\include\xstring(541,7):
+       см. объявление "std::basic_string<char,std::char_traits<char>,std::allocator<char>>"
+  
+  pyLib.vcxproj -> C:\Users\danii\source\repos\pyLib\x64\Debug\pyLib.exe
