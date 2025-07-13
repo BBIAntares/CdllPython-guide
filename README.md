@@ -59,18 +59,3 @@ ctypes  - это библиотека внешних функций для Pytho
 вывод в терминал: print(название переменной.название функции(аргумент)). Название функции можно посмотреть в проекте visual studio.
 
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/fb2d8aa6-4abc-40ee-9b7c-b1224795d9a0" />
-
-
-чет питон не хочет хавать string из ++
-
-крч, яп хуйни работает только с типами данных С + яп хуйни не работает с классами С++
-
-обертка классов или func: 
-
-https://share.google/8ZaskWwMaCYn2c7Ak
-
-https://share.google/ilvSWJxblaWJ0DAmC
-
-https://share.google/6NRK6RMhfQpVGwRdD
-
-крч, я написал func для примера (С)
